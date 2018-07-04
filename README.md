@@ -4,16 +4,19 @@ Simulate Stock Trading Process Via API Calls on Historical Stock Data
 1. Project Intro
 
 	a) The project will take historical stock price data using API and allow users mock the behaviors of stock trading back to Early 2018 with $10000 and see how much money they could make till today.
+
 	b) Need to start by searching with a ticker symbol.
 
 2. Design, UI/UX, Site Content
 
 	a) Stock Price History, from API
+
 	b) There is user input, and only validating when user is searching with empty string or invalid ticker symbol.
 
 3. Dynamic HTML / Interactivity
 
 	a) On Search, a stock price chart will be displayed, and will enable users to buy/sell the stock with current price when users click on buy/sell.
+	
 	b) Users could hover and click to get to trigger functions.
 
 4. API
